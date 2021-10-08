@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/fylodarkthemelandingpagemaster-OTw3LJsSs)
-- Live Site URL: [Add live site URL here](https://somi00138.github.io/fylo-dark-theme-landing-page-master/)
+- Solution URL: [frontendmentor.io/solutions/fylodarkthemelandingpagemaster-OTw3LJsSs](https://www.frontendmentor.io/solutions/fylodarkthemelandingpagemaster-OTw3LJsSs)
+- Live Site URL: [somi00138.github.io/fylo-dark-theme-landing-page-master/](https://somi00138.github.io/fylo-dark-theme-landing-page-master/)
 
 
