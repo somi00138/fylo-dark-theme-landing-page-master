@@ -459,7 +459,8 @@ footer {
                     row-gap: .8rem;
                     .mail-input {
                         border-radius: 30px;
-                        padding: 1rem 0;
+                        padding: 1rem 2rem;
+                        box-sizing: border-box;
                         width: 100%;
                     }
                 }

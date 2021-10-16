@@ -547,7 +547,9 @@ footer .wrap-contact .socials .facebook-icon:hover, footer .wrap-contact .social
   }
   footer .wrap-footer .sign-in .sign-in-form .mail-input {
     border-radius: 30px;
-    padding: 1rem 0;
+    padding: 1rem 2rem;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     width: 100%;
   }
 }
